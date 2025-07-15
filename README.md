@@ -3,6 +3,8 @@
 A full-stack web app for translating and localizing content using OpenAI’s APIs.  
 GitTranslate lets you:
 
+Devpost: [https://devpost.com/software/gitcast](https://devpost.com/software/gitcast)
+
 - **Fetch and browse** Git repositories (GitHub, GitLab)
 - **Translate** code comments, filenames, and documentation into your chosen language via GPT-3.5 Turbo
 - **(Bonus)** Upload podcast or other audio files to **transcribe** with Whisper, **translate** the transcript, and **synthesize** new audio in the target language
